@@ -51,7 +51,7 @@
 
 - 🌱 I’m currently learning **Backend Dev ,Django and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gourav-chalotra](https://github.com/gourav-chalotra)
+- 👨‍💻 All of my projects are available at [https://github.com/Akashthepro](https://github.com/Akashthepro), ... Soon at the Portfolio Website
 
 - 💬 Ask me about **Backend Dev**
 
