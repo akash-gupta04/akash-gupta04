@@ -40,7 +40,7 @@
 
 ###
 
-<img src="snake.svg" alt="Snake animation" />
+<a href=#><img src="snake.svg"></a>
 
 ###
 
@@ -60,12 +60,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=Akashthepro" alt="Layout with last medium posts"  />
+<div>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/realakash08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/realakash08" height="30" width="40" /></a>
 </div>
-
-
-###
