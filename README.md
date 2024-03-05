@@ -11,7 +11,7 @@
 <h3 align="center"> 👨‍🎓Internatonal Student in 🇨🇦</h3>
 <ul style="list-style: square;">
   <li>
-    <h3 align="left"> Technologies, I am familiar with:</h3>
+    <h3 align="left"> Tech Stack:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -36,7 +36,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+      <a href="https://www.instagram.com/akash8_gupta" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+      </a>
+
 </div>
 
 <a href=#><img src="snake.svg"></a>
