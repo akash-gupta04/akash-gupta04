@@ -9,7 +9,8 @@
 ###
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center"> 👨‍🎓Internatonal Student in 🇨🇦</h3>
-###
+
+
  🔭 I’m currently working on **Python, Django, DSA, Backend Web Development**
 
 - 🌱 I’m currently learning **Backend Dev ,Django and Python**
