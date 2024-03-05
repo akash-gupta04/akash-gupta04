@@ -46,9 +46,17 @@
   </li>
 </ul>
 
-
 ###
+ 🔭 I’m currently working on **C, C++, DSA, Android Development**
 
+- 🌱 I’m currently learning **DSA ,C++ and C**
+
+- 👨‍💻 All of my projects are available at [https://github.com/gourav-chalotra](https://github.com/gourav-chalotra)
+
+- 💬 Ask me about **DSA**
+
+- 📫 How to reach me **gouravchalotra4141@gmail.com**
+###
 <br clear="both">
 
 <div align="center">
