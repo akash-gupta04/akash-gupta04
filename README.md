@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Akashthepro/Akashthepro/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Akashthepro/Akashthepro/snake.png" alt="Snake animation" />
 
 ###
 
