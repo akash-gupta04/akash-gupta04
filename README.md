@@ -47,15 +47,15 @@
 </ul>
 
 ###
- 🔭 I’m currently working on **C, C++, DSA, Android Development**
+ 🔭 I’m currently working on **Python, Django, DSA, Backend Web Development**
 
-- 🌱 I’m currently learning **DSA ,C++ and C**
+- 🌱 I’m currently learning **Backend Dev ,Django and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gourav-chalotra](https://github.com/gourav-chalotra)
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **Backend Dev**
 
-- 📫 How to reach me **gouravchalotra4141@gmail.com**
+- 📫 How to reach me **akash10gupta100@gmail.com**
 ###
 <br clear="both">
 
