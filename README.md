@@ -9,6 +9,18 @@
 ###
 <h1 align="center">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center"> 👨‍🎓Internatonal Student in 🇨🇦</h3>
+###
+ 🔭 I’m currently working on **Python, Django, DSA, Backend Web Development**
+
+- 🌱 I’m currently learning **Backend Dev ,Django and Python**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Akashthepro](https://github.com/Akashthepro), ... Soon at the Portfolio Website
+
+- 💬 Ask me about **Backend Dev**
+
+- 📫 How to reach me **akash10gupta100@gmail.com**
+
+###
 <ul style="list-style: square;">
   <li>
     <h3 align="left"> Tech Stack:</h3>
@@ -46,16 +58,7 @@
   </li>
 </ul>
 
-###
- 🔭 I’m currently working on **Python, Django, DSA, Backend Web Development**
 
-- 🌱 I’m currently learning **Backend Dev ,Django and Python**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Akashthepro](https://github.com/Akashthepro), ... Soon at the Portfolio Website
-
-- 💬 Ask me about **Backend Dev**
-
-- 📫 How to reach me **akash10gupta100@gmail.com**
 ###
 <br clear="both">
 
