@@ -7,8 +7,8 @@
 </div>
 
 ###
-<h1 align="center">Hi 👋, I'm Gourav chalotra</h1>
-<h3 align="center">Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Akash Gupta</h1>
+<h3 align="center">Developer from India :india: , Studying in Canada :canada:</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/akash-gupta-6a447a237/" target="_blank">
