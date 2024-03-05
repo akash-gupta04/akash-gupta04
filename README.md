@@ -1,7 +1,3 @@
-<br clear="both">
-
-<p align="left">Hello Guys, I am Akash Gupta</p>
-
 ###
 
 <br clear="both">
@@ -11,6 +7,8 @@
 </div>
 
 ###
+<h1 align="center">Hi 👋, I'm Gourav chalotra</h1>
+<h3 align="center">Developer from India</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/akash-gupta-6a447a237/" target="_blank">
@@ -60,6 +58,3 @@
 </div>
 
 ###
-<div>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/realakash08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/realakash08" height="30" width="40" /></a>
-</div>
