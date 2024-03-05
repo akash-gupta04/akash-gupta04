@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://www.svgrepo.com/svg/481363/snake-4" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 
 ###
 
