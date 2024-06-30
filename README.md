@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Backend Dev ,Django and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Akashthepro](https://github.com/Akashthepro), ... Soon at the Portfolio Website
+- 👨‍💻 All of my projects are available at https://akashthepro.github.io/PortfolioWebsite
 
 - 💬 Ask me about **Backend Dev**
 
