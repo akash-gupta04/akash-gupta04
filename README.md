@@ -2,12 +2,12 @@
 
 <br clear="both">
 
-<div align="center" style="background-color:Tomato;">
+<div align="center">
   <img height="200" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif"  />
 </div>
 
 ###
-<h1 align="center">Hi 👋, I'm Akash Gupta</h1>
+<h1 align="center" style="background-color:Tomato;">Hi 👋, I'm Akash Gupta</h1>
 <h3 align="center"> 👨‍🎓Internatonal Student in 🇨🇦</h3>
 
 
