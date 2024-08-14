@@ -2,7 +2,7 @@
 
 <br clear="both">
 
-<div align="center" color="purple">
+<div align="center" style="background-color:Tomato;">
   <img height="200" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif"  />
 </div>
 
